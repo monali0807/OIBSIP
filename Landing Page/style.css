@@ -47,6 +47,7 @@ nav ul {
   display: flex;
   gap: 5rem;
 } */
+
 nav li {
   font-size: 1.8rem;
   border-bottom: 0.4rem transparent solid;
@@ -69,6 +70,7 @@ nav li:hover {
 .content-text {
   color: #003251;
 }
+
 .head-img {
   width: 100%;
   height: 700px;
