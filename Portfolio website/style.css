@@ -394,7 +394,7 @@ p {
 	width: 90%;
 }
 #contact .contact-items {
-	max-width: 400px;
+	/* max-width: 400px; */
 	width: 100%;
 }
 #contact .contact-item {
@@ -429,6 +429,7 @@ p {
 	line-height: 2rem;
 	font-weight: 500;
 }
+	
 /*End contact Section */
 
 /* Footer */
